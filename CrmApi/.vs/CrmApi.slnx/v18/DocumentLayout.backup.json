@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DD50E6-8AEC-99DA-679D-90F47056B24A}|CrmApi\\CrmApi.csproj|c:\\users\\kahya\\desktop\\sotware projeler\\c sharp\\crm project\\backend\\crmapi\\crmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4DD50E6-8AEC-99DA-679D-90F47056B24A}|CrmApi\\CrmApi.csproj|solutionrelative:crmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|Crm.Infrastructure\\Crm.Infrastructure.csproj|c:\\users\\kahya\\desktop\\sotware projeler\\c sharp\\crm project\\backend\\crmapi\\crm.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|Crm.Infrastructure\\Crm.Infrastructure.csproj|solutionrelative:crm.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|Crm.Infrastructure\\Crm.Infrastructure.csproj|c:\\users\\kahya\\desktop\\sotware projeler\\c sharp\\crm project\\backend\\crmapi\\crm.infrastructure\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|Crm.Infrastructure\\Crm.Infrastructure.csproj|solutionrelative:crm.infrastructure\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DD50E6-8AEC-99DA-679D-90F47056B24A}|CrmApi\\CrmApi.csproj|c:\\users\\kahya\\desktop\\sotware projeler\\c sharp\\crm project\\backend\\crmapi\\crmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DD50E6-8AEC-99DA-679D-90F47056B24A}|CrmApi\\CrmApi.csproj|solutionrelative:crmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\CrmApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CrmApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\CrmApi\\appsettings.json",
+              "RelativeToolTip": "CrmApi\\appsettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-25T15:41:05.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\Crm.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Crm.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\Crm.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "Crm.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAIwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:40:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\Crm.Infrastructure\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Crm.Infrastructure\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\Crm.Infrastructure\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Crm.Infrastructure\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:40:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\CrmApi\\Program.cs",
+              "RelativeDocumentMoniker": "CrmApi\\Program.cs",
+              "ToolTip": "C:\\Users\\KAHYA\\Desktop\\Sotware Projeler\\C Sharp\\CRM Project\\Backend\\CrmApi\\CrmApi\\Program.cs",
+              "RelativeToolTip": "CrmApi\\Program.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAcwOoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:40:04.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

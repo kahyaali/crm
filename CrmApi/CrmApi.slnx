@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Crm.Application/Crm.Application.csproj" />
+  <Project Path="Crm.Domain/Crm.Domain.csproj" />
+  <Project Path="Crm.Infrastructure/Crm.Infrastructure.csproj" />
+  <Project Path="CrmApi/CrmApi.csproj" />
+</Solution>
