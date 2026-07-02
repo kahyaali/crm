@@ -16,7 +16,7 @@ React + ASP.NET Core Web API ile geliştirilmiş modern bir Müşteri İlişkile
 - **React.js**
 - **Axios** (API iletişimi)
 - **React Router**
-- **Bootstrap / Tailwind** (varsa ekle)
+- **Bootstrap 
 
 ## 📦 Öne Çıkan Özellikler
 
